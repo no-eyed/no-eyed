@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shobhit Arya
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning computer science
--  I’m not that good with words, so here is a simple page .
+-  I’m not that good with words, so here is a simple profile page .
 - 📫 How to reach me ... but why?
 
 <!---
